@@ -1,0 +1,61 @@
+Syllabus
+Module 1 - Getting Started with SQL
+
+Introduction to Databases
+SELECT Statement
+SELECT Statement Examples
+Hands-on Lab: Basics of SELECT Statements
+COUNT, DISTINCT, LIMIT
+Hands-on Lab: COUNT, DISTINCT, LIMIT
+INSERT Statement
+UPDATE and DELETE Statements
+Summary & Highlights
+Practice Quiz
+Module 1 Graded Quiz
+Module 2 - Introduction to Relational Databases and Tables
+
+Relational Database Concepts
+How to Create a Database Instance on Cloud
+Hands-on Lab: Sign up for IBM Cloud, Create Db2 Service Instance and Get started with the Db2 Console
+Types of SQL Statements (DDL vs. DML)
+CREATE TABLE Statement
+ALTER, DROP and Truncate Tables
+Examples to CREATE and DROP Tables
+Hands-on Lab: CREATE, ALTER, TRUNCATE, DROP
+Hands-on Lab: Create and Load Tables using SQL Scripts
+Summary & Highlights
+Practice Quiz
+Module 2 Graded Quiz
+Module 3 - Intermediate SQL
+
+Using String Patterns and Ranges
+Sorting Result Sets
+Grouping Result Sets
+Hands-on Lab: String Patterns, Sorting & Grouping
+Summary & Highlights
+Practice Quiz
+Module 3 Graded Quiz 1
+Built-in Database Functions
+Date and Time Built-in Functions
+Hands-on Lab: Built-in Functions
+Sub-Queries and Nested Selects
+Hands-on Lab: Sub-Queries and Nested SELECTs
+Working with Multiple Tables
+Hands-on Lab: Working with Multiple Tables
+Summary & Highlights
+Practice Quiz
+Module 3 Graded Quiz 2
+Module 4 - Assignment Preparation: Working with real-world data sets and built-in SQL functions
+
+Working with Real World Datasets
+Hands-on Lab: Working with a Real World Dataset using SQL and IBM Cloud DB2
+Getting Table and Column Details
+LOADing Data
+Module 5 - Final Project
+
+Introduction to SQL: Peer Assignment
+Peer Graded Assignment: Submit Your Work and Review Your Peers
+Module 6 - Final Exam
+
+Instructions
+Final Exam
