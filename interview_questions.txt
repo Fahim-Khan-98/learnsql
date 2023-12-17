@@ -1,0 +1,2 @@
+What is SQL?
+SQL is a language used for relational databases to query or get data out of a database.
